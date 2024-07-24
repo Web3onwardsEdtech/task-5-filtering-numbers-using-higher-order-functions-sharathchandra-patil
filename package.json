@@ -1,0 +1,11 @@
+{
+  "name": "higher-order-functions-task",
+  "version": "1.0.0",
+  "description": "A simple task to learn higher-order functions and array methods in JavaScript",
+  "main": "filterNumbers.js",
+  "scripts": {
+    "start": "node filterNumbers.js"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
