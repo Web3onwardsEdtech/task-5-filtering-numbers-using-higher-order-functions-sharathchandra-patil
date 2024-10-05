@@ -12,4 +12,4 @@ function filterNumbers(arr, criterion) {
 }
 
 console.log(filterNumbers([1,2,3,4,4,5,6],'even'));
-console.log(filterNumbers([1,2,3,4,4,5,6],'odd'));
+console.log(filterNumbers([1,2,3,4,4,5,6,7],'odd'));
